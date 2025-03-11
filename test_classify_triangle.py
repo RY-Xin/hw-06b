@@ -28,12 +28,12 @@ class TestClassifyTriangle(unittest.TestCase):
         self.assertEqual(classify_triangle(0, 2, 3), "Invalid Triangle")
         
     
-def test_invalid_triangle_sides(self):
-    self.assertEqual(classify_triangle(1, 2, 3), "Invalid Triangle")
-    self.assertEqual(classify_triangle(1, 10, 12), "Invalid Triangle")
+    def test_invalid_triangle_sides(self):
+        self.assertEqual(classify_triangle(1, 2, 3), "Invalid Triangle")
+        self.assertEqual(classify_triangle(1, 10, 12), "Invalid Triangle")
 
-def test_large_values(self):
-    self.assertEqual(classify_triangle(1000000, 1000000, 1000000), "Equilateral Triangle")
+    def test_large_values(self):
+        self.assertEqual(classify_triangle(1000000, 1000000, 1000000), "Equilateral Triangle")
     
 
 if __name__ == "__main__":
