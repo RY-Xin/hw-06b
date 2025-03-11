@@ -1,0 +1,10 @@
+test_equilateral (test_classify_triangle.TestClassifyTriangle.test_equilateral) ... ok
+test_invalid_triangle (test_classify_triangle.TestClassifyTriangle.test_invalid_triangle) ... ok
+test_isosceles (test_classify_triangle.TestClassifyTriangle.test_isosceles) ... ok
+test_right_triangle (test_classify_triangle.TestClassifyTriangle.test_right_triangle) ... ok
+test_scalene (test_classify_triangle.TestClassifyTriangle.test_scalene) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.000s
+
+OK
