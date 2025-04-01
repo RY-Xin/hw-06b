@@ -1,3 +1,4 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/RY-Xin/hw-06b/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/RY-Xin/hw-06b/tree/main)
 ### Triangle Classification Project
 
 This project contains a Python program that classifies triangles based on their side lengths. The classification includes identifying whether the triangle is Equilateral, Isosceles, Scalene, or Invalid. It also checks for right-angled triangles.
